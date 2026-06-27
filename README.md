@@ -6,6 +6,7 @@
   - Maximize profits and build custom customer loyalty programs.
   - Establish a secure multi-role back-office system across dedicated subdomains (**Customers, Sales Agents, Brand Operators**) to streamline order fulfillment.
   - Integrate a wellness knowledge hub (Blogs, Podcasts, Digitized Books) and automated AI Chatbots.
+- **Scope Note:** This repository focuses specifically on the **Sales Portal** ecosystem, covering its design artifacts, use case specifications, and manual testing implementation.
 ## 🛠️ My Personal Contributions
 ### 1. Business Analysis & UI/UX Design
 - Participated in team discussions to define and standardize Functional Requirements for all user roles across the platform.
